@@ -1,18 +1,18 @@
-# Project TJ-JPT
+# Project GP-JPT
 
 ## Release Date
-May 8th 2020
+June 27th 2024
 
 ## Introduction
 As a pentester, there are many great resources, cheat sheets, and guidelines that contain a large amount of valuable 
 information. However, it can be frustrating and time-consuming to find these notes or resources that are scattered all 
 over the place. Not to mention the large amount of notes you have stored locally across your system with several 
 different note-taking tools. In addition, some pentesters could be in assessments that are in a closed environment 
-making it more challenging to transfer there notes and files on their devices. That's when I found [Joplin][Joplin] 
+making it more challenging to transfer their notes and files on their devices. That's when I found [Joplin][Joplin] 
 to be able to suit my needs when I am on engagements.
 
 ## A Word of Advice:
-This template contains a variety of tools, commands, and resources that I reference from to use for certain cases when 
+This template contains a variety of tools, commands, and resources that I reference to use for certain cases when 
 I am on an engagement. However, it is important that you learn about these tools and understand the references being 
 used! Take some time to look over the resources I put in before you start running these tools or commands blindly. If 
 the tool or command does not work the way it should, then take a step back and troubleshoot it. **Critical thinking** 
@@ -40,19 +40,21 @@ informed decision.
 4. Locate the pentest template and it should appear in Joplin
 
 ## Feedback, Suggestions and Contributions
-Although this template is just the start there can always be room to add new tips, resources, or guides for other 
+Although this template is just the start, there can always be room to add new tips, resources, or guides for other 
 people to use in this template. Feel free to post any suggestions that you may have or want to include by submitting 
 an issue in the repo. 
 
 ## Credit
-- A huge shout out goes to [James Hall][James Hall] originally creating his own pentesting template in Cherry Tree 
-that inspired me to build mine in Joplin. You can find it [here][Github].
+- A huge shout out goes to [tjnull][tjnull], the original creator of this project. You can find the original project [here][tjnull-github].
+- [James Hall][James Hall] originally creating his own pentesting template in Cherry Tree that inspired me to build mine in Joplin. You can find it [here][James Hall-Github].
 - [Offensive Security][Offensive Security]: For reviewing the template and giving me feedback on things to 
 add/improve on the template.
 - The developers at [Joplin][Joplin] for making an awesome opensource note-taking tool.
- 
+
+[tjnull]:               https://github.com/tjnull
+[tjnull-github]:        https://github.com/tjnull/tj-jpt
 [Joplin]:               https://joplinapp.org/
 [WebClipper]:           https://joplinapp.org/clipper/
 [James Hall]:           https://twitter.com/411Hall
-[Github]:               https://411hall.github.io/OSCP-Preparation/
+[James Hall-Github]:    https://411hall.github.io/OSCP-Preparation/
 [Offensive Security]:   https://www.offensive-security.com/
